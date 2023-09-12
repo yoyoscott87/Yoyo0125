@@ -10,6 +10,8 @@
 
 
 ## 課程筆記區
+
+9/12 https://yoyoscott87.github.io/myweb/
 ## 作業連結區
 ## 專題連結區
 
