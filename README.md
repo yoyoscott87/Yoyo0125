@@ -14,6 +14,8 @@
 9/12 https://yoyoscott87.github.io/my_web/
 ## 作業連結區
 [HW1個人網站](https://yoyoscott87.github.io/mywednew/)
+
+[HW2](https://www.youtube.com/watch?v=0xq_jhTBIkg)
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
