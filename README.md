@@ -12,6 +12,8 @@
 ## 課程筆記區
 
 9/12 https://yoyoscott87.github.io/my_web/
+
+10/17 https://www.100jsprojects.com/projects 100個小品作品參考
 ## 作業連結區
 [HW1個人網站](https://yoyoscott87.github.io/mywednew/)
 
